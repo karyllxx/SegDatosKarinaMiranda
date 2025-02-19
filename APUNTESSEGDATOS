@@ -4,6 +4,61 @@
 ![IMAGEN AWS](SegDatosKarinaMiranda/AWS.png)
 
 
+# 🛡️ **Conceptos Básicos de Seguridad Informática**
+
+## 🔒 **Triada CIA (Confidencialidad, Integridad, Disponibilidad)**
+
+La **Triada CIA** es un modelo fundamental para diseñar políticas de seguridad. Asegura la protección de la información en cualquier sistema.
+
+| 🏷️ **Concepto**       | 💡 **Descripción**                                                                 |
+|-----------------------|-----------------------------------------------------------------------------------|
+| 🔐 **Confidencialidad** | Garantiza que la información solo sea accesible por personas autorizadas.          |
+| 🧬 **Integridad**       | Asegura que la información se mantenga precisa y completa, sin alteraciones no autorizadas. |
+| 🌐 **Disponibilidad**   | Garantiza que los usuarios autorizados tengan acceso a la información cuando lo necesiten. |
+
+---
+
+## ⚖️ **Triángulo de Usabilidad (Seguridad, Funcionalidad, Usabilidad)**
+
+Este triángulo representa el equilibrio entre tres factores clave al diseñar sistemas:
+
+- 🔒 **Seguridad:** Nivel de protección contra amenazas.
+- ⚙️ **Funcionalidad:** Qué tan bien el sistema cumple su propósito.
+- 🎛️ **Usabilidad:** Facilidad con la que los usuarios pueden interactuar con el sistema.
+
+
+---
+
+## ⚡ **Conceptos Clave**
+
+### 🎯 **Riesgo**
+Probabilidad de que una amenaza explote una vulnerabilidad y cause un impacto negativo.
+
+- 🔄 **Fórmula:** \( Riesgo = Amenaza \times Vulnerabilidad \times Impacto \)
+
+### 🛡️ **MFA (Autenticación Multifactor)**
+Método de autenticación que requiere más de un factor para verificar la identidad del usuario.
+
+**Factores comunes:**
+- 🔑 Algo que sabes (contraseña)
+- 📱 Algo que tienes (token, smartphone)
+- 👁️ Algo que eres (biometría)
+
+### 🕳️ **Vulnerabilidad**
+Debilidad en el sistema que puede ser explotada por una amenaza.
+
+### ⚔️ **Amenaza**
+Evento o entidad que puede explotar una vulnerabilidad y causar daño al sistema.
+
+### 💥 **Impacto**
+Consecuencias negativas derivadas de la explotación de una vulnerabilidad.
+
+| ⚡ **Concepto**     | 📝 **Ejemplo**                       |
+|--------------------|-------------------------------------|
+| 🕳️ Vulnerabilidad  | Software desactualizado.             |
+| ⚔️ Amenaza         | Ataque de malware.                  |
+| 💥 Impacto         | Robo de datos personales.            |
+
 
 
 

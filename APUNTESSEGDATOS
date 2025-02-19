@@ -3,25 +3,7 @@
 ## 🔧✨👓 CURSO AWS
 ![IMAGEN AWS](SegDatosKarinaMiranda/AWS.png)
 
-# Apuntes sobre el ATtiny85
 
-## 🔧 Configuración básica
-- 5 pines GPIO
-- 8 KB de memoria Flash
-- Temporizadores y PWM internos
-
-## 💡 Código de ejemplo
-```cpp
-void setup() {
-  pinMode(0, OUTPUT);
-}
-
-void loop() {
-  digitalWrite(0, HIGH);
-  delay(1000);
-  digitalWrite(0, LOW);
-  delay(1000);
-}
 
 
 
